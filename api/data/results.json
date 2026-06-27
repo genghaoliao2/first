@@ -1,0 +1,22 @@
+{
+  "results": [
+    {
+      "id": "result_1782568709572_d6du689sd",
+      "score": 60,
+      "totalQuestions": 5,
+      "correctAnswers": 3,
+      "startTime": 1234567890000,
+      "endTime": 1234567950000,
+      "wrongQuestions": [
+        {
+          "questionId": "g002",
+          "userAnswer": 1
+        },
+        {
+          "questionId": "g005",
+          "userAnswer": 2
+        }
+      ]
+    }
+  ]
+}
